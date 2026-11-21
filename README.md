@@ -8,6 +8,9 @@ EXCEL PROJECT
 <a href="https://github.com/skyadav15021999-star/EXCEL_PROJECT/blob/main/dashboard.PNG">Output</a>
 This Sales Dashboard is an interactive business intelligence project developed using Microsoft Power BI to analyze sales performance, revenue, profit, product trends, and regional performance. It provides a clear overview of business performance through KPIs and interactive visualizations, helping stakeholders make data-driven decisions.
 
+
+<img width="534" height="360" alt="dashboard" src="https://github.com/user-attachments/assets/bdbe7421-a30b-4096-b15d-d982d02d1d2e" />
+
 🎯 Objectives
 
 #Monitor overall sales, profit, quantity sold, and order performance.
